@@ -1,4 +1,4 @@
-# Vaibhav Kasturia - Personal Website
+# Vishesh Kasturia - Personal Website
 
 The personal website source code.
 
